@@ -1,3 +1,5 @@
+
+
 # Asteroids-Comets
 Name:        Asteroids_Comets.py
  Purpose:     To display current Asteroid/Comet Information
@@ -28,3 +30,5 @@ Version       0.44
  http://www.minorplanetcenter.net/iau/Ephemerides/CritList/Soft03CritList.txt  - observable critical list numbered minor planets
  http://www.minorplanetcenter.net/iau/Ephemerides/Distant/Soft03Distant.txt - observable distant minor planets (including Centaurs & Transneptuniasns)
  http://www.minorplanetcenter.net/iau/Ephemerides/Unusual/Soft03Unusual.txt - unusual minor planets (including NEOs)
+ 
+I have included current (as of today) downloaded files in the repository. The program will download new one when run if it has internet access.
